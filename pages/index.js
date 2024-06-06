@@ -38,10 +38,10 @@ const Home = () => {
             <a href="#" target="_blank">1 Opç</a>
           </li>
           <li>
-            <a href="#">2 Opç</a>
+            <a href="#" target="_blank">2 Opç</a>
           </li>
           <li>
-            <a href="#">3 Opç</a>
+            <a href="#" target="_blank">3 Opç</a>
           </li>
           <li>
             <a href="https://wa.me/5534991870072" target="_blank">Fale comigo (WhatsApp)</a>
